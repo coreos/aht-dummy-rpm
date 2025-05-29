@@ -1,5 +1,5 @@
 .PHONY: rpm
-rpm: aht-dummy.spec
+rpm: coreos-dummy.spec
 	rpmbuild -ba \
 		--define "_sourcedir $$PWD" \
 		--define "_specdir $$PWD" \

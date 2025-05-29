@@ -1,4 +1,4 @@
-Name:		aht-dummy
+Name:		coreos-dummy
 Version:	1.0
 Release:	1
 Summary:	Dummy RPM for CoreOS.
